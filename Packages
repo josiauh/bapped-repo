@@ -5,6 +5,7 @@ Depends: mobilesubstrate
 Version: 0.1.0
 Architecture: iphoneos-arm64e
 Description: Shake your phone to unhinge your icons! (recompiled for arm64e by josiah)
+MD5sum: c48e414e304bd7ca6e0abb2fbf9e3c17
 Maintainer: Kritanta
 Author: Kritanta
 Section: Tweaks
