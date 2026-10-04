@@ -1,0 +1,11 @@
+Filename: debs/me.kritanta.gravitation_0.1.0-2+debug_iphoneos-arm64e.deb
+Package: me.kritanta.gravitation
+Name: Gravitation
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Description: Shake your phone to unhinge your icons! (recompiled for arm64e by josiah)
+Maintainer: Kritanta
+Author: Kritanta
+Section: Tweaks
+Size: 36
